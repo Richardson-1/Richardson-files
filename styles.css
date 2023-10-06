@@ -1,0 +1,44 @@
+body {
+    background-image: url(images/bg-desktop.svg);
+    background-color: rgb(170, 32, 230);
+}
+
+.top {
+    padding-top: 50px;
+    padding-left: 60px;
+}
+
+.mid {
+    width: 90%;
+    height: 500px;
+}
+
+.morkin {
+    display: flex;
+    height: 450px;
+    float: left;
+    padding-left: 60px;
+    padding-right: 80px;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+button {
+    background-color: white;
+    color: rgb(135, 28, 235);
+    cursor: pointer;
+    margin-top: 50px;
+    border-radius: 20px;
+    border: 1px solid white;
+    width: 200px;
+    height: 50px;
+}
